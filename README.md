@@ -1,1 +1,1 @@
-# titanic_kaggle
+# titanic_kaggle_Contest
